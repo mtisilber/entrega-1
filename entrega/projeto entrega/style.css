@@ -84,13 +84,7 @@
     height: auto;
 }
 
-.like_button_vitrine {
-    position: absolute;
-    width: 45px;
-    height: 45px;
-    border-radius: 100px;
-    background-color: #ffffff;
-}
+
 
 .text_home {
     font-size: 20px;
